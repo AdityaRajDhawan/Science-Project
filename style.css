@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body {
+    background-color: black;
+}
+
+.title {
+font-size: 65px;
+font-family: Archivo Black;
+color: whitesmoke;
+align-items: center;
+text-align: center;
+}
+
+hr {
+    height: 5px;
+    background-color: aqua;
+}
+
+#one {
+    font-size: 50px;
+font-family: Archivo Black;
+color: whitesmoke;
+}
+
+#sun {
+    font-size: 75px;
+font-family: Archivo Black;
+color: whitesmoke;
+align-items: center;
+text-align: center;
+}
+
+#section-1 {
+    color: whitesmoke;
+    width: 1000px;
+}
+
+p {
+    font-size: 20px;
+    font-family: Archivo Black;
+    
+}
+
+#sun-facts {
+    color: whitesmoke;
+    margin-left: 1100px;
+    margin-top: -240px;
+}
+
+ul {
+    color: whitesmoke;
+    font-size: 27px;
+}
+
+#solar-panel {
+    color: whitesmoke;
+    margin-top: 200px;
+}
+
+.image {
+    align-items: center;
+    text-align: center;
+}
+
+#nuclear-energy {
+    color: whitesmoke;
+    width: 1000px;
+}
+
+#nuclear-facts {
+    margin-left: 1200px;
+    color: whitesmoke;
+    margin-top: -715px;
+}
